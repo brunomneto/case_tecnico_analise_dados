@@ -1,0 +1,7 @@
+Tp,Descricao
+1,Pessoa física - CPF
+2,Pessoa jurídica - CNPJ
+3,Pessoa física no exterior
+4,Pessoa jurídica no exterior
+5,Pessoa física sem CPF
+6,Pessoa jurídica sem CNPJ
